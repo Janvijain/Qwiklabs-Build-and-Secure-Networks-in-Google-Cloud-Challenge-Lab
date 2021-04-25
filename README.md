@@ -1,4 +1,4 @@
-# Qwiklabs Back Build and Secure Networks in Google Cloud Challenge Lab
+# Qwiklabs Build and Secure Networks in Google Cloud Challenge Lab
 Step by Step guide to solve this challenge. Can refer my YouTube video for the same : https://youtu.be/Ss7iMlKP4Wc
 
 
